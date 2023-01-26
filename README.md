@@ -3,6 +3,7 @@ This is the code repository for a minimum value product we are building to demon
 
 
 The MVP should have the capability to: 
+
 •	Collects data (using APIs) 
 •	Stores it in databases or Data Sources (relational, or no relational databases, or even object storage options such ASW S3) 
 •	Loads the data from the database or data source 
